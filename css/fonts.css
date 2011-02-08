@@ -1,142 +1,71 @@
-/* From: http://fontstacks.r10.railsrumble.com/bundles/new?family_ids=194,220,228,230 */
+.afs-ofl-sorts-mill-goudy { font-family: "Sorts Mill Goudy", "Hoefler Text", "Baskerville", "Palatino", "Georgia", "Times New Roman", serif; ;}
 
-/* Headline */
-.afs-droid-sans { font-family: "Droid Sans", "Lucida Grande", "Verdana", "Arial", "Helvetica", "Gill Sans", sans-serif; ;}
+body, .afs-ofl-sorts-mill-goudy { font-family: "Sorts Mill Goudy", "Hoefler Text", "Baskerville", "Palatino", "Georgia", "Times New Roman", serif; font-size: 1.000em;}
 
-/* Text */
-.afs-gentium-book-basic { font-family: "Gentium Book Basic", "Georgia", "Palatino", "Times New Roman", "Baskerville", "Hoefler Text", serif; font-size: 118.06%;}
-
-/* Decoration (e.g. Sidebars, Links, etc...) */
-.afs-charis-sil { font-family: "Charis SIL", "Georgia", "Palatino", "Times New Roman", "Baskerville", "Hoefler Text", serif; font-size: 111.20%;}
-
-/* Monospaced (e.g. Code Samples, etc...) */
-.afs-liberation-mono { font-family: "Liberation Mono", Menlo, Courier New, Courier, Mono, monospace; font-size: 101.52%;}
+code, .afs-inconsolata { font-family: "Inconsolata", Menlo, Courier New, Courier, Mono, monospace; font-size: 0.934em;}
 
 
 @font-face {
-  font-family: Droid Sans;
-  src: url('../fonts/DroidSans.ttf');
-  src: local('☺'), url('../fonts/DroidSans.svg');
-  font-weight: 400;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: Droid Sans;
-  src: url('../fonts/DroidSans-Bold.ttf');
-  src: local('☺'), url('../fonts/DroidSans-Bold.svg');
-  font-weight: 700;
-  font-style: normal;
-}
-
-
-
-@font-face {
-  font-family: Gentium Book Basic;
-  src: url('../fonts/GenBkBasI.ttf');
-  src: local('☺'), url('../fonts/GenBkBasI.svg');
-  font-weight: 400;
+  font-family: 'Sorts Mill Goudy';
+  src: url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.eot');
+  src: local('☺'), url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.woff') format('woff'), url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.ttf') format('truetype'), url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.svg#webfontX4pGz9fc') format('svg');
+  font-weight: 500;
   font-style: italic;
 }
 
 
 @font-face {
-  font-family: Gentium Book Basic;
-  src: url('../fonts/GenBkBasR.ttf');
-  src: local('☺'), url('../fonts/GenBkBasR.svg');
-  font-weight: 400;
+  font-family: 'Sorts Mill Goudy';
+  src: url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.eot');
+  src: local('☺'), url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.woff') format('woff'), url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.ttf') format('truetype'), url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.svg#webfontX4pGz9fc') format('svg');
+  font-weight: 500;
   font-style: normal;
 }
 
 
+
 @font-face {
-  font-family: Gentium Book Basic;
-  src: url('../fonts/GenBkBasBI.ttf');
-  src: local('☺'), url('../fonts/GenBkBasBI.svg');
-  font-weight: 700;
+  font-family: 'Sorts Mill Goudy';
+  src: url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.eot');
+  src: local('☺'), url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.woff') format('woff'), url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.ttf') format('truetype'), url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.svg#webfontX4pGz9fc') format('svg');
+  font-weight: 500;
   font-style: italic;
 }
 
 
 @font-face {
-  font-family: Gentium Book Basic;
-  src: url('../fonts/GenBkBasB.ttf');
-  src: local('☺'), url('../fonts/GenBkBasB.svg');
-  font-weight: 700;
+  font-family: 'Sorts Mill Goudy';
+  src: url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.eot');
+  src: local('☺'), url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.woff') format('woff'), url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.ttf') format('truetype'), url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.svg#webfontX4pGz9fc') format('svg');
+  font-weight: 500;
   font-style: normal;
 }
 
 
 
 @font-face {
-  font-family: Charis SIL;
-  src: url('../fonts/CharisSILB.ttf');
-  src: local('☺'), url('../fonts/CharisSILB.svg');
-  font-weight: 700;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: Charis SIL;
-  src: url('../fonts/CharisSILBI.ttf');
-  src: local('☺'), url('../fonts/CharisSILBI.svg');
-  font-weight: 700;
+  font-family: 'Sorts Mill Goudy';
+  src: url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.eot');
+  src: local('☺'), url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.woff') format('woff'), url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.ttf') format('truetype'), url('fonts/Sorts-Mill-Goudy/GoudyStM-Italic-webfont.svg#webfontX4pGz9fc') format('svg');
+  font-weight: 500;
   font-style: italic;
 }
 
 
 @font-face {
-  font-family: Charis SIL;
-  src: url('../fonts/CharisSILR.ttf');
-  src: local('☺'), url('../fonts/CharisSILR.svg');
-  font-weight: 400;
+  font-family: 'Sorts Mill Goudy';
+  src: url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.eot');
+  src: local('☺'), url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.woff') format('woff'), url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.ttf') format('truetype'), url('fonts/Sorts-Mill-Goudy/GoudyStM-webfont.svg#webfontX4pGz9fc') format('svg');
+  font-weight: 500;
   font-style: normal;
 }
 
 
-@font-face {
-  font-family: Charis SIL;
-  src: url('../fonts/CharisSILI.ttf');
-  src: local('☺'), url('../fonts/CharisSILI.svg');
-  font-weight: 400;
-  font-style: italic;
-}
-
-
 
 @font-face {
-  font-family: Liberation Mono;
-  src: url('../fonts/LiberationMono-Bold.ttf');
-  src: local('☺'), url('../fonts/LiberationMono-Bold.svg');
-  font-weight: 700;
+  font-family: 'Inconsolata';
+  src: url('fonts/Inconsolata/Inconsolata-webfont.eot');
+  src: local('☺'), url('fonts/Inconsolata/Inconsolata-webfont.woff') format('woff'), url('fonts/Inconsolata/Inconsolata-webfont.ttf') format('truetype'), url('fonts/Inconsolata/Inconsolata-webfont.svg#webfontX4pGz9fc') format('svg');
+  font-weight: 500;
   font-style: normal;
-}
-
-
-@font-face {
-  font-family: Liberation Mono;
-  src: url('../fonts/LiberationMono-BoldItalic.ttf');
-  src: local('☺'), url('../fonts/LiberationMono-BoldItalic.svg');
-  font-weight: 700;
-  font-style: italic;
-}
-
-
-@font-face {
-  font-family: Liberation Mono;
-  src: url('../fonts/LiberationMono-Regular.ttf');
-  src: local('☺'), url('../fonts/LiberationMono-Regular.svg');
-  font-weight: 400;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: Liberation Mono;
-  src: url('../fonts/LiberationMono-Italic.ttf');
-  src: local('☺'), url('../fonts/LiberationMono-Italic.svg');
-  font-weight: 400;
-  font-style: italic;
 }
