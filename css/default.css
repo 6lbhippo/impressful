@@ -1,6 +1,7 @@
 .hr {
   background-color: #000;
   height: 0.10em;
+  margin-top: 0;
   margin-bottom: 0.75em;
 }
 
@@ -16,12 +17,25 @@ h3 {
   font-size: 1.2em;
 }
 
+div {
+  margin-top: 1em;
+}
+
+#header {
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+
 #logo {
   margin-bottom: 0.15em;
   font-size: 2.5em;
 }
 
 #content {
+}
+
+.item {
+  margin-top: 2em;
 }
 
 #sidebar {
